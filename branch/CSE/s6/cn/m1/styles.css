@@ -1,0 +1,17 @@
+body {
+    position: relative;
+}
+
+.nav-pills {
+    top: 20px;
+    position: fixed;
+}
+.col-sm-9 div {
+    height: 200px;
+    font-size: 14px;
+}
+#inicio {color: #fff; background-color: #1E88E5;}
+#servicios {color: #fff; background-color: #673ab7;}
+#eventos {color: #fff; background-color: #ff9800;}
+#menu {color: #fff; background-color: #00bcd4;}
+#book {color: #fff; background-color: #009688;}
