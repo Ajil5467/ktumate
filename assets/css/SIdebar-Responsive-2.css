@@ -102,6 +102,7 @@ nav:hover .forAnimate {
 @media (min-width: 768px) {
   nav.sidebar:hover {
     margin-left: 0px;
+    float: left;
   }
 }
 
